@@ -1,0 +1,55 @@
+
+/* BASE GENERAL Y TIPOGRAFÍA (VIDEO 8) */
+body {
+    background-color: #064e3b;
+    color: #ecfdf5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #34d399;
+    text-align: center;
+}
+
+h2 {
+    color: #6ee7b7;
+}
+
+p, li, label {
+    color: #a7f3d0;
+    line-height: 1.5;
+}
+
+a {
+    color: #34d399;
+}
+
+/* 1. IMÁGENES (VIDEO 10) */
+img {
+    width: 300px;
+    border: 3px solid #34d399;
+    border-radius: 8px;
+}
+
+/* 2. TABLAS (VIDEO 12) */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 400px;
+}
+
+th, td {
+    border: 1px solid #059669;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #047857;
+    color: #ecfdf5;
+}
+
+td {
+    background-color: #065f46;
+    color: #a7f3d0;
+}
